@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "adventureTitle": "Amazon Rainforest Expedition",
+    "image": "https://i.ibb.co.com/DfbFchb/Amazon-Rain-1.jpg",
+    "categoryName": "Jungle Exploration",
+    "shortDescription": "Explore the heart of the Amazon rainforest with expert guides. Embark on guided treks through lush greenery, witness exotic wildlife, and connect with nature in its purest form. Experience eco-conscious camping under the stars while learning about the local culture and biodiversity.",
+    "adventureCost": 1200,
+    "bookingAvailability": false,
+    "location": "Manaus, Brazil",
+    "duration": "7 days",
+    "adventureLevel": "Challenging",
+    "includedItems": [
+      "Guided tours",
+      "Camping equipment",
+      "Meals",
+      "Transportation"
+    ],
+    "ecoFriendlyFeatures": [
+      "Solar-powered camps",
+      "Minimal plastic use",
+      "Eco-certified guides"
+    ],
+    "maxGroupSize": 12,
+    "specialInstructions": [
+      "Pack insect repellent",
+      "Bring waterproof gear",
+      "Vaccinations recommended"
+    ]
+  },
+  {
+    "id": 2,
+    "adventureTitle": "Coral Reef Diving Adventure",
+    "image": "https://i.ibb.co.com/QYr60J5/Cora-Diving-Adventure-1.jpg",
+    "categoryName": "Underwater Exploration",
+    "shortDescription": "Dive into vibrant coral reefs and explore marine biodiversity. Discover the stunning underwater world with an experienced guide, swim alongside colorful fish, and marvel at the untouched beauty of the reefs. Learn about sustainable diving practices to protect this natural wonder.",
+    "adventureCost": 850,
+    "bookingAvailability": true,
+    "location": "Great Barrier Reef, Australia",
+    "duration": "5 days",
+    "adventureLevel": "Moderate",
+    "includedItems": [
+      "Diving gear",
+      "Underwater guide",
+      "Boat transfers",
+      "Meals"
+    ],
+    "ecoFriendlyFeatures": [
+      "No-anchor policy",
+      "Marine-safe sunscreen provided",
+      "Reef conservation donations"
+    ],
+    "maxGroupSize": 10,
+    "specialInstructions": [
+      "PADI certification required",
+      "Avoid touching corals",
+      "Pack light swimwear"
+    ]
+  },
+  {
+    "id": 3,
+    "adventureTitle": "Desert Camel Trek",
+    "image": "https://i.ibb.co.com/60677Gw/Desert-Camel-Trek.jpg",
+    "categoryName": "Desert Adventure",
+    "shortDescription": "Experience the serenity of the desert on a guided camel trek. Traverse golden dunes, immerse yourself in local Bedouin traditions, and savor delicious traditional meals. Witness breathtaking desert sunsets and sleep under a blanket of stars in eco-friendly tents.",
+    "adventureCost": 600,
+    "bookingAvailability": true,
+    "location": "Sahara Desert, Morocco",
+    "duration": "3 days",
+    "adventureLevel": "Easy",
+    "includedItems": [
+      "Camel ride",
+      "Traditional meals",
+      "Desert guide",
+      "Tents"
+    ],
+    "ecoFriendlyFeatures": [
+      "Local guides",
+      "Zero waste meals",
+      "Eco-friendly tents"
+    ],
+    "maxGroupSize": 8,
+    "specialInstructions": [
+      "Carry sunblock",
+      "Wear lightweight clothing",
+      "Stay hydrated"
+    ]
+  },
+  {
+    "id": 4,
+    "adventureTitle": "Glacier Hiking Expedition",
+    "image": "https://i.ibb.co.com/4fZwxhg/Glacier-Hiking-Expedition.jpg",
+    "categoryName": "Mountain Adventure",
+    "shortDescription": "Traverse stunning glaciers with professional mountaineers. Challenge yourself on icy terrains, capture panoramic views of pristine landscapes, and learn essential glacier safety techniques. This adventure combines thrill with environmental consciousness for an unforgettable journey.",
+    "adventureCost": 950,
+    "bookingAvailability": true,
+    "location": "Iceland",
+    "duration": "4 days",
+    "adventureLevel": "Challenging",
+    "includedItems": ["Ice axes", "Crampons", "Safety gear", "Meals"],
+    "ecoFriendlyFeatures": [
+      "Leave-no-trace policy",
+      "Eco-conscious accommodations",
+      "Sustainable travel methods"
+    ],
+    "maxGroupSize": 10,
+    "specialInstructions": [
+      "Wear thermal clothing",
+      "Ensure physical fitness",
+      "Follow guide's safety instructions"
+    ]
+  },
+  {
+    "id": 5,
+    "adventureTitle": "Rainforest Zipline Adventure",
+    "image": "https://i.ibb.co.com/YLGns7Z/Rainforest-Zipline-Adventure.jpg",
+    "categoryName": "Canopy Exploration",
+    "shortDescription": "Soar above lush rainforests on eco-friendly ziplines. Enjoy the thrill of gliding between treetops, marvel at breathtaking vistas, and feel the rush of adrenaline. This unique adventure also supports sustainable tourism practices for preserving the rainforest.",
+    "adventureCost": 300,
+    "bookingAvailability": false,
+    "location": "Costa Rica",
+    "duration": "1 day",
+    "adventureLevel": "Moderate",
+    "includedItems": ["Safety harness", "Guided tour", "Lunch"],
+    "ecoFriendlyFeatures": [
+      "Tree-safe zipline anchors",
+      "Minimal impact trails",
+      "Recycled gear"
+    ],
+    "maxGroupSize": 15,
+    "specialInstructions": [
+      "Wear comfortable shoes",
+      "Avoid loose clothing",
+      "Tie back long hair"
+    ]
+  },
+  {
+    "id": 6,
+    "adventureTitle": "Arctic Wildlife Safari",
+    "image": "https://i.ibb.co.com/c6dXBkH/Arctic-Wildlife-Safari.jpg",
+    "categoryName": "Wildlife Viewing",
+    "shortDescription": "Witness polar bears and arctic foxes in their natural habitat. Cruise through icy landscapes, spot elusive arctic wildlife, and explore pristine ecosystems with experienced guides. Learn about conservation efforts to protect this fragile environment.",
+    "adventureCost": 1500,
+    "bookingAvailability": true,
+    "location": "Svalbard, Norway",
+    "duration": "6 days",
+    "adventureLevel": "Moderate",
+    "includedItems": [
+      "Guided safaris",
+      "Binoculars",
+      "Accommodations",
+      "Meals"
+    ],
+    "ecoFriendlyFeatures": [
+      "Solar-heated lodges",
+      "Eco-friendly transport",
+      "Wildlife protection initiatives"
+    ],
+    "maxGroupSize": 8,
+    "specialInstructions": [
+      "Pack thermal wear",
+      "Bring a good camera",
+      "Respect wildlife distance"
+    ]
+  },
+  {
+    "id": 7,
+    "adventureTitle": "Kayaking Through Fjords",
+    "image": "https://i.ibb.co.com/9HyK8KP/Kayaking-Through-Fjords.jpg",
+    "categoryName": "Water Adventure",
+    "shortDescription": "Paddle through serene fjords and enjoy breathtaking scenery. Glide over crystal-clear waters, spot marine life, and embrace the peacefulness of nature. This adventure is perfect for both beginners and seasoned kayakers, offering a blend of relaxation and exploration.",
+    "adventureCost": 400,
+    "bookingAvailability": true,
+    "location": "Norwegian Fjords",
+    "duration": "2 days",
+    "adventureLevel": "Easy",
+    "includedItems": ["Kayak rental", "Life jackets", "Lunch"],
+    "ecoFriendlyFeatures": [
+      "Human-powered activity",
+      "Biodegradable meal packaging",
+      "Local guides"
+    ],
+    "maxGroupSize": 6,
+    "specialInstructions": [
+      "Wear waterproof clothing",
+      "Bring sunscreen",
+      "Carry a dry bag"
+    ]
+  },
+  {
+    "id": 8,
+    "adventureTitle": "Volcano Trekking Adventure",
+    "image": "https://i.ibb.co.com/x3sg8KJ/Volcano-Trekking-Adventure.jpg",
+    "categoryName": "Volcanic Exploration",
+    "shortDescription": "Climb active volcanoes and witness lava flows. Navigate rugged trails, experience the power of nature up close, and learn about volcanic geology. Reward yourself with spectacular views from the summit and unforgettable memories of this fiery adventure.",
+    "adventureCost": 700,
+    "bookingAvailability": true,
+    "location": "Mount Etna, Italy",
+    "duration": "3 days",
+    "adventureLevel": "Moderate",
+    "includedItems": ["Trekking poles", "Safety equipment", "Meals"],
+    "ecoFriendlyFeatures": [
+      "Eco-certified guides",
+      "No-trace trekking",
+      "Locally sourced meals"
+    ],
+    "maxGroupSize": 10,
+    "specialInstructions": [
+      "Wear sturdy hiking boots",
+      "Bring a headlamp",
+      "Follow safety protocols"
+    ]
+  },
+  {
+    "id": 9,
+    "adventureTitle": "Eco-Farm Stay and Harvest",
+    "image": "https://i.ibb.co.com/2K280Fq/Eco-Farm-Stay-and-Harvest.jpg",
+    "categoryName": "Cultural Experience",
+    "shortDescription": "Learn sustainable farming and enjoy fresh harvests. Participate in hands-on activities, connect with local farmers, and immerse yourself in a wholesome countryside experience. This adventure promotes eco-living and offers a peaceful escape from city life.",
+    "adventureCost": 250,
+    "bookingAvailability": true,
+    "location": "Tuscany, Italy",
+    "duration": "2 days",
+    "adventureLevel": "Easy",
+    "includedItems": ["Farm tools", "Harvest meals", "Guided activities"],
+    "ecoFriendlyFeatures": [
+      "Organic farming",
+      "Compost use",
+      "Solar-powered accommodations"
+    ],
+    "maxGroupSize": 5,
+    "specialInstructions": [
+      "Wear comfortable workwear",
+      "Carry gloves",
+      "Embrace local culture"
+    ]
+  },
+  {
+    "id": 10,
+    "adventureTitle": "Mountain Biking Trails",
+    "image": "https://i.ibb.co.com/RCf707Y/Mountai-Biking-Trails.jpg",
+    "categoryName": "Adventure Sports",
+    "shortDescription": "Ride thrilling mountain trails with panoramic views. Conquer rugged terrains, test your endurance, and soak in breathtaking landscapes along the way. This eco-friendly adventure is perfect for adrenaline seekers looking to connect with nature.",
+    "adventureCost": 500,
+    "bookingAvailability": true,
+    "location": "Rocky Mountains, USA",
+    "duration": "3 days",
+    "adventureLevel": "Challenging",
+    "includedItems": ["Mountain bikes", "Safety gear", "Trail guides"],
+    "ecoFriendlyFeatures": [
+      "Recycled bike frames",
+      "Sustainable trail management",
+      "Eco-conscious accommodations"
+    ],
+    "maxGroupSize": 12,
+    "specialInstructions": [
+      "Wear a helmet",
+      "Pack energy snacks",
+      "Follow trail etiquette"
+    ]
+  }
+]
